@@ -1,1 +1,1 @@
-v 1.0.0 - SNAPSHOT
+v 1.1.0 - SNAPSHOT
